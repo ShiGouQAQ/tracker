@@ -919,13 +919,6 @@ http://dht.dhtclub.com:666/announce
 http://dn42.smrsh.net:6969/announce
 http://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://echostar.ddnsfree.com:8080/announce
-http://ehtracker.org/1/announce
-http://ehtracker.org/1104308/announce
-http://ehtracker.org/1113709/announce
-http://ehtracker.org/1226599/1080494xo5eXcwFOBq/announce
-http://ehtracker.org/2496841/announce
-http://ehtracker.org/2541477/announce
-http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
 http://elitezones.ro/announce
 http://exodus.desync.com/announce
 http://exodus.desync.com:6969/announce
