@@ -11,11 +11,9 @@ http://185.171.202.111:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://211.75.205.187/announce
-http://211.75.205.187:6969/announce
 http://211.75.205.188/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.189/announce
-http://211.75.205.189:6969/announce
 http://211.75.210.221/announce
 http://211.75.210.221:6969/announce
 http://216.144.239.90:6969/announce
@@ -30,6 +28,7 @@ http://93.158.213.92:1337/announce
 http://94.23.207.177:6969/announce
 http://announce.sktorrent.eu:6969/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://bittorrent.kali.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.edwardk.info:12891/announce
 http://bt.edwardk.info:2710/announce
@@ -80,10 +79,12 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.k.vu:6969/announce
+http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
