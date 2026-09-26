@@ -76,6 +76,7 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
@@ -86,6 +87,7 @@ http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nyaa.vc:6969/announce
+http://tracker.opentorrent.top:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.privateseedbox.xyz:2710/announce
